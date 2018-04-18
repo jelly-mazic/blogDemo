@@ -1,0 +1,37 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mazic.dao.ArticleDao">
+    <!--目的:为dao接口方法提供sql语句配置
+    即针对dao接口中的方法编写我们的sql语句-->
+
+    <!--这里面的id指代什么 id、title、content、date、read、tag-->
+    <update id="updateArticle">
+        UPDATE article
+        SET tag = #{article.tag},
+        title = #{article.title},
+        content = #{article.content},
+        date = #{article.date},
+        read = #{article.read},
+        WHERE id=#{article.id}
+
+    </update>
+    <!--创建文章-->
+    <insert id="insertArticle">
+        INSERT INTO article (title,content,date,read,tag)
+        VALUES (#{article.title},#{article.content},#{article.date},#{article.read},#{article.tag})
+    </insert>
+    <!--查询文章-->
+    <select id="queryArticle" resultType="article">
+        SELECT *
+        FROM article
+        WHERE id=#{articleId}
+    </select>
+    <!--分页查询文章???需要使用resultMap-->
+    <select id="queryArticleList" resultType="List">
+        SELECT *
+        FROM article
+        LIMT (#{page} - 1)*5, 5
+    </select>
+
+</mapper>
