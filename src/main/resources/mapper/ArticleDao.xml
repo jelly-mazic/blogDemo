@@ -27,7 +27,7 @@
         FROM article
         WHERE id=#{articleId}
     </select>
-    <!--分页查询文章???需要使用resultMap-->
+    <!--分页查询文章???需要使用resultMap，还是直接使用resultType类型中的list-->
     <select id="queryArticleList" resultType="List">
         SELECT *
         FROM article

@@ -31,7 +31,7 @@ public class ResumeDaoTest {
     public void saveResume() {
         String intrduce = "dsfakdjflkad";
         String hobby = "game";
-        resumeDao.insertResume(intrduce, "", "", "", "", hobby);
+        resumeDao.insertResume(intrduce, "1", "2", "3", "4", hobby);
 
     }@Test
     public void saveResume1() {

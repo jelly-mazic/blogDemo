@@ -8,6 +8,9 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import javax.annotation.Resource;
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
@@ -29,16 +32,20 @@ public class ArticleDaoTest {
     }
 
     @Test
-    public void saveArticle() {
-        Date date = new Date();
-        Article article = new Article("开门见山", "描述自己如何搭建博客",0,"随笔" );
+    public void saveArticle() throws ParseException {
+
+        SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        Date d = format.parse("2018-04-09 10:45:36");
+        Article article = new Article("开门见山", "描述自己如何搭建博客",d,0,"随笔" );
         articleDao.insertArticle(article);
 
     }
 
     @Test
-    public void changArticle() {
-        Article article = new Article("开门见山", "描述自己如何搭建博客",0,"随笔" );
+    public void changArticle() throws ParseException {
+        SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        Date d = format.parse("2018-04-19 10:45:36");
+        Article article = new Article("开门见山1", "描述自己如何搭建博客1",d,2,"随笔1" );
         article.setId(1);
         articleDao.updateArticle(article);
 

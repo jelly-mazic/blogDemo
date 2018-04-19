@@ -8,10 +8,10 @@
 <!--这里面的id指代什么-->
     <update id="updateResume">
         UPDATE resume
-        SET selfIntroduce = #{selfIntroduce},
-        selfAbility = #{selfAbility},
-        selfLanguage = #{selfLanguage},
-        selfEducation = #{selfEducation},
+        SET selfIntroduce = #{article.},
+        selfAbility = #{article},
+        selfLanguage = #{article},
+        selfEducation = #{article},
         selfExperience = #{selfExperience},
         selfHobby = #{selfHobby}
         WHERE resumeid=#{resumeId}
