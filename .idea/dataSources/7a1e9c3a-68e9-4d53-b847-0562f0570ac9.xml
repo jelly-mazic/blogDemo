@@ -20,37 +20,37 @@
       <Position>2</Position>
       <DataType>int(11)|0</DataType>
     </column>
-    <column id="11" parent="8" name="resumeId">
+    <column id="19" parent="9" name="resumeId">
       <Position>1</Position>
       <DataType>int(11)|0</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
     </column>
-    <column id="12" parent="8" name="selfIntroduce">
+    <column id="20" parent="9" name="selfIntroduce">
       <Position>2</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="13" parent="8" name="selfAbility">
+    <column id="21" parent="9" name="selfAbility">
       <Position>3</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="14" parent="8" name="selfLanguage">
+    <column id="22" parent="9" name="selfLanguage">
       <Position>4</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="15" parent="8" name="selfEducation">
+    <column id="23" parent="9" name="selfEducation">
       <Position>5</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="16" parent="8" name="selfExperience">
+    <column id="24" parent="9" name="selfExperience">
       <Position>6</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="17" parent="8" name="selfHobby">
+    <column id="25" parent="9" name="selfHobby">
       <Position>7</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <key id="18" parent="8" name="PRIMARY">
+    <key id="26" parent="9" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>resumeId</ColNames>
       <Primary>1</Primary>
