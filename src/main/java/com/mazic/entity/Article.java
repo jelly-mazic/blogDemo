@@ -3,33 +3,49 @@ package com.mazic.entity;
 import java.util.Date;
 
 public class Article {
-    /**
-     *id、title、content、date、read、tag
-     */
-    private  int id;//文章编号
-    private  String title;//文章标题
-    private  String content;//文章简介
-    private  Date date;//文章发布时间
-    private  int read;//文章阅读数
-    private  String tag;//文章标签
 
-    public Article(){
+    private int articleId;
+    private String title;//标题
+    private String descri;//简介
+    private String content;//内容
+    private int readNum;//阅读量
+    private String tag;//标签
+    private Date articleDate;//创建时间
+
+    public Article() {
 
     }
-    public Article(String title, String content, Date date, int read, String tag) {
+
+    public Article(String title, String descri, String content, String tag, Date articleDate) {
         this.title = title;
+        this.descri = descri;
         this.content = content;
-        this.date = date;
-        this.read = read;
         this.tag = tag;
+        this.articleDate = articleDate;
     }
 
-    public int getId() {
-        return id;
+    public String getdescri() {
+        return descri;
     }
 
-    public void setId(int id) {
-        this.id = id;
+    public void setdescri(String descri) {
+        this.descri = descri;
+    }
+
+    public Date getArticleDate() {
+        return articleDate;
+    }
+
+    public void setArticleDate(Date articleDate) {
+        this.articleDate = articleDate;
+    }
+
+    public int getArticleId() {
+        return articleId;
+    }
+
+    public void setArticleId(int articleId) {
+        this.articleId = articleId;
     }
 
     public String getTitle() {
@@ -48,20 +64,12 @@ public class Article {
         this.content = content;
     }
 
-    public Date getDate() {
-        return date;
+    public int getReadNum() {
+        return readNum;
     }
 
-    public void setDate(Date date) {
-        this.date = date;
-    }
-
-    public int getRead() {
-        return read;
-    }
-
-    public void setRead(int read) {
-        this.read = read;
+    public void setReadNum(int readNum) {
+        this.readNum = readNum;
     }
 
     public String getTag() {

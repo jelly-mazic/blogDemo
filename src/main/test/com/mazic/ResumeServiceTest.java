@@ -22,8 +22,8 @@ public class ResumeServiceTest {
 
     @Test
     public void testQueryResueme() {
-        Resume r = resumeService.seeResume();
-        System.out.printf(r.getSelfHobby());
+        Resume r = resumeService.seeResume(1);
+        System.out.println("result:"+r.getSelfIntroduce());
 
     }
 

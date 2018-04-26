@@ -8,9 +8,7 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import javax.annotation.Resource;
-import java.text.DateFormat;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
 
 /**
@@ -27,28 +25,25 @@ public class ArticleDaoTest {
     @Test
     public void queryById() throws Exception {
         int id = 1;
-        Article result = articleDao.queryArticle(id);
-        System.out.println(result.getContent());
+        Article result =articleDao.queryArticle(id);
+        System.out.println(result.getArticleDate());
     }
 
     @Test
-    public void saveArticle() throws ParseException {
+    public void queryByPage() throws Exception {
 
-        SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-        Date d = format.parse("2018-04-09 10:45:36");
-        Article article = new Article("开门见山", "描述自己如何搭建博客",d,0,"随笔" );
+        ArrayList<Article> result =articleDao.queryByPage(0,2);
+        System.out.println(result.size());
+    }
+    @Test
+    public void saveArticle() {
+        Article article = new Article();
+        article.setTitle("test");
+        article.setContent("test");
+        article.setdescri("asd");
+        article.setTag("ta");
+        article.setArticleDate(new Date());
         articleDao.insertArticle(article);
-
-    }
-
-    @Test
-    public void changArticle() throws ParseException {
-        SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-        Date d = format.parse("2018-04-19 10:45:36");
-        Article article = new Article("开门见山1", "描述自己如何搭建博客1",d,2,"随笔1" );
-        article.setId(1);
-        articleDao.updateArticle(article);
-
     }
 
 

@@ -28,25 +28,28 @@ public class ResumeDaoTest {
     }
 
     @Test
-    public void saveResume() {
-        String intrduce = "dsfakdjflkad";
-        String hobby = "game";
-        resumeDao.insertResume(intrduce, "1", "2", "3", "4", hobby);
-
-    }@Test
     public void saveResume1() {
-        Resume r  = new Resume();
-        r.setSelfAbility("123");
+        Resume r = new Resume();
+        r.setSelfAbility("12345645");
         r.setSelfEducation("123");
         r.setSelfExperience("er");
         r.setSelfIntroduce("er");
         r.setSelfLanguage("er");
         r.setSelfHobby("er");
-        resumeDao.insertResume2(r);
+        resumeDao.insertResume(r);
     }
+
     @Test
     public void changResume() {
-        resumeDao.updateResume(2, "我爱生活", "yu", "444", "rf", "56", "123");
+        Resume r = new Resume();
+        r.setSelfAbility("12345645");
+        r.setSelfEducation("123");
+        r.setSelfExperience("er");
+        r.setSelfIntroduce("er");
+        r.setSelfLanguage("er");
+        r.setSelfHobby("er");
+        r.setResumeId(1);
+        resumeDao.updateResume(r);
 
     }
 

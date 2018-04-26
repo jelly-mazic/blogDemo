@@ -12,8 +12,8 @@ public class ResumeServiceImpl implements ResumeService {
     private ResumeDao resumeDao;
 
     @Override
-    public Resume seeResume() {
-        Resume resume = resumeDao.queryResume(1);
+    public Resume seeResume(int id) {
+        Resume resume = resumeDao.queryResume(id);
         return resume;
     }
 }
