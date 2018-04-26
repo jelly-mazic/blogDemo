@@ -9,102 +9,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="900d6f87-431b-4811-984e-88d38492fa27" name="Default" comment="tips:博客保存">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_58_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_core_0_0_1_RC9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_jsoup_dom_converter_0_0_1_RC9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_pdfbox_0_0_1_RC9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_rtl_support_0_0_1_RC9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_all_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_abbreviation_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_anchorlink_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_aside_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_autolink_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_definition_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_emoji_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_escaped_character_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_footnotes_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_issues_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_strikethrough_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_tables_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_tasklist_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_users_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_ins_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_jekyll_front_matter_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_jekyll_tag_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_superscript_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_tables_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_toc_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_typographic_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_wikilink_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_xwiki_macros_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_yaml_front_matter_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_formatter_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_html_parser_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_jira_converter_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_pdf_converter_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_profile_pegdown_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_youtrack_converter_0_26_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_nibor_autolink_autolink_0_6_0.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/brand/bootstrap-outline.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/brand/bootstrap-punchout.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/brand/bootstrap-solid.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/css/docs.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/css/docs.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/css/ie10-viewport-bug-workaround.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/css/src/docs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/css/src/pygments-manni.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/flash/ZeroClipboard.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/components.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/devices.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/expo-lyft.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/expo-newsweek.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/expo-riot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/expo-vogue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/sass-less.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/customize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/docs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/ie-emulation-modes-warning.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/ie10-viewport-bug-workaround.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/ie8-responsive-file-warning.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/raw-files.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/src/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/src/customizer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/Blob.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/FileSaver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/ZeroClipboard.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/anchor.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/autoprefixer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/holder.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/jszip.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/less.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/uglify.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/starter-template.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/jq/jquery-3.0.0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/jq/jquery-3.0.0.min.js" afterPath="" />
+    <list default="true" id="900d6f87-431b-4811-984e-88d38492fa27" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/dao/ResumeDao.class" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/dao/ResumeDao.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/service/ResumeService.class" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/service/ResumeService.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/service/impl/ResumeServiceImpl.class" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/service/impl/ResumeServiceImpl.class" />
@@ -115,12 +20,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mazic/web/ResumeController.class" afterPath="$PROJECT_DIR$/target/classes/com/mazic/web/ResumeController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mazic/ResumeDaoTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mazic/ResumeDaoTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mazic/ResumeServiceTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mazic/ResumeServiceTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/blogDemo_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/blogDemo_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/7a1e9c3a-68e9-4d53-b847-0562f0570ac9.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/7a1e9c3a-68e9-4d53-b847-0562f0570ac9.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogDemo.iml" afterPath="$PROJECT_DIR$/blogDemo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/mapper/ResumeDao.xml" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/mapper/ResumeDao.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/jsp/resume.jsp" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/jsp/resume.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/index.html" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/index.html" />
@@ -780,7 +680,7 @@
       <workItem from="1524576566821" duration="2176000" />
       <workItem from="1524664717154" duration="5090000" />
       <workItem from="1524670575327" duration="263000" />
-      <workItem from="1524746945595" duration="1015000" />
+      <workItem from="1524746945595" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="测试保存文章接口">
       <created>1524150290477</created>
@@ -817,7 +717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524748051531</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tips:博客保存">
+      <created>1524748069927</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1524748069927</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -853,7 +760,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152038000" />
+    <option name="totallyTimeSpent" value="152055000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -973,9 +880,9 @@
     <MESSAGE value="测试保存文章接口" />
     <MESSAGE value="测试保存文章接口2" />
     <MESSAGE value="开发文章保存" />
-    <MESSAGE value="tips:博客保存" />
     <MESSAGE value="tips:初始化项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="tips:初始化项目" />
+    <MESSAGE value="tips:博客保存" />
+    <option name="LAST_COMMIT_MESSAGE" value="tips:博客保存" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
