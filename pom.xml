@@ -147,6 +147,12 @@
             <artifactId>spring-test</artifactId>
             <version>4.1.7.RELEASE</version>
         </dependency>
+        <!--flexmark-java插件，解析Markdown语法-->
+        <dependency>
+            <groupId>com.vladsch.flexmark</groupId>
+            <artifactId>flexmark-all</artifactId>
+            <version>0.26.4</version>
+        </dependency>
     </dependencies>
 
 </project>

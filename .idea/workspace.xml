@@ -9,9 +9,122 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="900d6f87-431b-4811-984e-88d38492fa27" name="Default" comment="测试保存文章接口2">
+    <list default="true" id="900d6f87-431b-4811-984e-88d38492fa27" name="Default" comment="tips:博客保存">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_58_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_core_0_0_1_RC9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_jsoup_dom_converter_0_0_1_RC9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_pdfbox_0_0_1_RC9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_openhtmltopdf_openhtmltopdf_rtl_support_0_0_1_RC9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_all_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_abbreviation_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_anchorlink_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_aside_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_autolink_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_definition_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_emoji_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_escaped_character_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_footnotes_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_issues_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_strikethrough_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_tables_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_tasklist_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_gfm_users_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_ins_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_jekyll_front_matter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_jekyll_tag_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_superscript_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_tables_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_toc_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_typographic_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_wikilink_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_xwiki_macros_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_ext_yaml_front_matter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_formatter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_html_parser_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_jira_converter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_pdf_converter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_profile_pegdown_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_util_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vladsch_flexmark_flexmark_youtrack_converter_0_26_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_nibor_autolink_autolink_0_6_0.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/brand/bootstrap-outline.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/brand/bootstrap-punchout.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/brand/bootstrap-solid.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/css/docs.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/css/docs.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/css/ie10-viewport-bug-workaround.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/css/src/docs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/css/src/pygments-manni.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/flash/ZeroClipboard.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/components.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/devices.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/expo-lyft.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/expo-newsweek.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/expo-riot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/expo-vogue.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/img/sass-less.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/customize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/docs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/ie-emulation-modes-warning.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/ie10-viewport-bug-workaround.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/ie8-responsive-file-warning.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/raw-files.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/src/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/src/customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/Blob.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/FileSaver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/ZeroClipboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/anchor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/autoprefixer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/holder.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/jszip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/less.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/assets/js/vendor/uglify.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/css/starter-template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/bt/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/jq/jquery-3.0.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/jq/jquery-3.0.0.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/dao/ResumeDao.class" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/dao/ResumeDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/service/ResumeService.class" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/service/ResumeService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/service/impl/ResumeServiceImpl.class" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/service/impl/ResumeServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/web/ResumeController.class" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/com/mazic/web/ResumeController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mazic/dao/ResumeDao.class" afterPath="$PROJECT_DIR$/target/classes/com/mazic/dao/ResumeDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mazic/service/ResumeService.class" afterPath="$PROJECT_DIR$/target/classes/com/mazic/service/ResumeService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mazic/service/impl/ResumeServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/mazic/service/impl/ResumeServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mazic/web/ResumeController.class" afterPath="$PROJECT_DIR$/target/classes/com/mazic/web/ResumeController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mazic/ResumeDaoTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mazic/ResumeDaoTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/mazic/ResumeServiceTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/mazic/ResumeServiceTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/blogDemo_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/blogDemo_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/7a1e9c3a-68e9-4d53-b847-0562f0570ac9.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/7a1e9c3a-68e9-4d53-b847-0562f0570ac9.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogDemo.iml" afterPath="$PROJECT_DIR$/blogDemo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/mapper/ResumeDao.xml" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/classes/mapper/ResumeDao.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/jsp/resume.jsp" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/WEB-INF/jsp/resume.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/index.html" afterPath="$PROJECT_DIR$/target/blogDemo-1.0-SNAPSHOT/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mapper/ResumeDao.xml" afterPath="$PROJECT_DIR$/target/classes/mapper/ResumeDao.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,12 +153,6 @@
         <item name="blogdemo@localhost" type="e3449647:DbNodeDescriptor" />
         <item name="blogdemo" type="e3449647:DbNodeDescriptor" />
       </path>
-      <path>
-        <item name="" type="eadb38e5:DatabaseStructure$Root" />
-        <item name="blogdemo@localhost" type="e3449647:DbNodeDescriptor" />
-        <item name="blogdemo" type="e3449647:DbNodeDescriptor" />
-        <item name="article" type="e3449647:DbNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
@@ -53,148 +160,7 @@
     <favorites_list name="blogDemo" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Article.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/entity/Article.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#620#621#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#783#784#0" expanded="true" />
-                <element signature="e#817#818#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
-                <element signature="e#881#882#0" expanded="true" />
-                <element signature="e#927#928#0" expanded="true" />
-                <element signature="e#965#966#0" expanded="true" />
-                <element signature="e#994#995#0" expanded="true" />
-                <element signature="e#1021#1022#0" expanded="true" />
-                <element signature="e#1059#1060#0" expanded="true" />
-                <element signature="e#1091#1092#0" expanded="true" />
-                <element signature="e#1119#1120#0" expanded="true" />
-                <element signature="e#1146#1147#0" expanded="true" />
-                <element signature="e#1183#1184#0" expanded="true" />
-                <element signature="e#1215#1216#0" expanded="true" />
-                <element signature="e#1245#1246#0" expanded="true" />
-                <element signature="e#1271#1272#0" expanded="true" />
-                <element signature="e#1309#1310#0" expanded="true" />
-                <element signature="e#1339#1340#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResumeDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/dao/ResumeDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArticleDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/dao/ArticleDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArticleDao.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ArticleDao.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-              <folding>
-                <marker date="1524148275014" expanded="true" signature="323:538" ph="UPDATE artic... " />
-                <marker date="1524148275014" expanded="true" signature="610:759" ph="INSERT INTO article... " />
-                <marker date="1524148275014" expanded="true" signature="850:909" ph="SELECT * FRO... article" />
-                <marker date="1524148275014" expanded="true" signature="1044:1105" ph="SELECT * FRO... article" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResumeDao.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ResumeDao.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-              <folding>
-                <marker date="1523973377886" expanded="true" signature="286:557" ph="UPDATE resum... " />
-                <marker date="1523973377886" expanded="true" signature="613:824" ph="INSERT INTO resume... " />
-                <marker date="1523973377886" expanded="true" signature="879:1156" ph="INSERT INTO resume... " />
-                <marker date="1523973377886" expanded="true" signature="1229:1292" ph="SELECT * FRO... resume" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Resume.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/entity/Resume.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResumeDaoTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/mazic/ResumeDaoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArticleDaoTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/mazic/ArticleDaoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="7a1e9c3a-68e9-4d53-b847-0562f0570ac9.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/dataSources/7a1e9c3a-68e9-4d53-b847-0562f0570ac9.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article" pinned="false" current-in-tab="false">
-        <entry file="das://table:/91b828ba/7a1e9c3a-68e9-4d53-b847-0562f0570ac9/blogdemo.article">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -219,11 +185,16 @@
       <find>resumeDao</find>
       <find>Resumea</find>
       <find>Resume</find>
+      <find>date</find>
+      <find>flexmark</find>
+      <find>describe</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>a</replace>
       <replace>Article</replace>
+      <replace>createdDate</replace>
+      <replace>descri</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\WEB-INF\jsp</dir>
@@ -251,30 +222,41 @@
         <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/mazic/entity/Resume.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mazic/dao/ResumeDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mazic/service/ResumeService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mazic/service/impl/ResumeServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" />
-        <option value="$PROJECT_DIR$/src/main/test/com/mazic/ResumeServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mazic/service/impl/web/SeeResume.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/resume.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mazic/web/ResumeController.java" />
         <option value="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar!/com/mysql/jdbc/JDBC4Connection.class" />
         <option value="$PROJECT_DIR$/blogDemo.iml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/resume.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/blog.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/mazic/entity/article.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazic/dao/AticleDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazic/dao/ResumeDao.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/ResumeDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/test/com/mazic/ResumeDaoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mazic/dao/ArticleDao.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazic/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazic/service/impl/ArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazic/service/impl/ResumeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazic/service/ResumeService.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/mazic/ResumeServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/head.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/nav.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/blog.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/resume.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazic/web/ResumeController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/createArticle.jsp" />
+        <option value="$PROJECT_DIR$/src/main/test/com/mazic/ArticleServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazic/until/MyUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="src:table:/91b828ba/7a1e9c3a-68e9-4d53-b847-0562f0570ac9/blogdemo.article" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazic/entity/Article.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mapper/ArticleDao.xml" />
         <option value="$PROJECT_DIR$/src/main/test/com/mazic/ArticleDaoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/mazic/ResumeDaoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mazic/entity/Article.java" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mazic/web/ArticleController.java" />
       </list>
     </option>
   </component>
@@ -299,10 +281,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-436" />
-    <option name="y" value="178" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="346" />
+    <option name="y" value="311" />
+    <option name="width" value="1366" />
+    <option name="height" value="750" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -344,7 +326,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -361,6 +345,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -368,114 +354,10 @@
               <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mazic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mazic" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mazic" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="mazic" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -484,33 +366,37 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="SearchEverywhereHistoryKey" value="git&#9;ACTION&#9;Git.Log&#10;live&#9;ACTION&#9;SurroundWithLiveTemplate&#10;live template&#9;ACTION&#9;SurroundWithLiveTemplate&#10;key map&#9;ACTION&#9;Help.KeymapReference&#10;action&#9;ACTION&#9;GotoAction&#10;code&#9;PSI&#9;JAVA://com.sun.org.apache.bcel.internal.classfile.Code&#10;live temp&#9;ACTION&#9;InsertLiveTemplate&#10;switch boot j&#9;ACTION&#9;SwitchBootJdk&#10;system update&#9;PSI&#9;JAVA://com.sun.javaws.CacheUpdateHelper#systemUpdateCheck&#10;file encod&#9;PSI&#9;JAVA://sun.net.www.ParseUtil#fileToEncodedURL" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="SearchEverywhereHistoryKey" value="switch &#9;ACTION&#9;SwitchBootJdk&#10;git&#9;ACTION&#9;Git.Log&#10;live&#9;ACTION&#9;SurroundWithLiveTemplate&#10;live template&#9;ACTION&#9;SurroundWithLiveTemplate&#10;key map&#9;ACTION&#9;Help.KeymapReference&#10;action&#9;ACTION&#9;GotoAction&#10;code&#9;PSI&#9;JAVA://com.sun.org.apache.bcel.internal.classfile.Code&#10;live temp&#9;ACTION&#9;InsertLiveTemplate&#10;switch boot j&#9;ACTION&#9;SwitchBootJdk&#10;system update&#9;PSI&#9;JAVA://com.sun.javaws.CacheUpdateHelper#systemUpdateCheck&#10;file encod&#9;PSI&#9;JAVA://sun.net.www.ParseUtil#fileToEncodedURL" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/gitHub/Jblog" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JAVA" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\static\md\css" />
+      <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\static" />
       <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\WEB-INF\jsp" />
       <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\jquery1" />
       <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\bootstrap1" />
-      <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\jquery" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.mazic" />
+      <recent name="com.mazic.web" />
+      <recent name="com.mazic.service.impl" />
+      <recent name="com.mazic.service" />
       <recent name="com.mazic.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\static\md\js" />
+      <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\static\md\lib" />
+      <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\static\md" />
       <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\resources\mapper" />
       <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\resources\spring" />
-      <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\bt\css" />
-      <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp\bt" />
-      <recent name="D:\Program Files\JetBrains\Projects\blogDemo\src\main\webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -525,7 +411,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArticleDaoTest.queryById">
+  <component name="RunManager" selected="Tomcat Server.tomcat8">
     <configuration name="ArticleDaoTest.queryById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="blogDemo" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -533,6 +419,25 @@
       <option name="PACKAGE_NAME" value="com.mazic" />
       <option name="MAIN_CLASS_NAME" value="com.mazic.ArticleDaoTest" />
       <option name="METHOD_NAME" value="queryById" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ArticleDaoTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blogDemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mazic" />
+      <option name="MAIN_CLASS_NAME" value="com.mazic.ArticleDaoTest" />
+      <option name="METHOD_NAME" value="save" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -564,13 +469,13 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ResumeDaoTest.changResume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArticleServiceTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="blogDemo" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.mazic" />
-      <option name="MAIN_CLASS_NAME" value="com.mazic.ResumeDaoTest" />
-      <option name="METHOD_NAME" value="changResume" />
+      <option name="MAIN_CLASS_NAME" value="com.mazic.ArticleServiceTest" />
+      <option name="METHOD_NAME" value="testSave" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -583,32 +488,13 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ResumeDaoTest.queryById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ResumeDaoTest.saveResume1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="blogDemo" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.mazic" />
       <option name="MAIN_CLASS_NAME" value="com.mazic.ResumeDaoTest" />
-      <option name="METHOD_NAME" value="queryById" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="ResumeDaoTest.saveResume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="blogDemo" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.mazic" />
-      <option name="MAIN_CLASS_NAME" value="com.mazic.ResumeDaoTest" />
-      <option name="METHOD_NAME" value="saveResume" />
+      <option name="METHOD_NAME" value="saveResume1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -830,19 +716,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.tomcat8" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ResumeDaoTest.queryById" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ResumeDaoTest.changResume" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ArticleDaoTest.saveArticle" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ArticleDaoTest.queryById" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.ResumeDaoTest.saveResume" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ArticleServiceTest.testSave" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ArticleDaoTest.save" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ArticleDaoTest.queryById" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ArticleDaoTest.saveArticle" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.ResumeDaoTest.saveResume1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ArticleDaoTest.queryById" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ArticleDaoTest.saveArticle" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ResumeDaoTest.saveResume" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ResumeDaoTest.queryById" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ResumeDaoTest.changResume" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ArticleDaoTest.saveArticle" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ResumeDaoTest.saveResume1" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ArticleDaoTest.queryById" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ArticleDaoTest.save" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ArticleServiceTest.testSave" />
       </list>
     </recent_temporary>
   </component>
@@ -888,7 +774,13 @@
       <workItem from="1523456826685" duration="17000" />
       <workItem from="1523540053675" duration="4029000" />
       <workItem from="1523971967255" duration="9408000" />
-      <workItem from="1524360227601" duration="1621000" />
+      <workItem from="1524360227601" duration="14908000" />
+      <workItem from="1524389351576" duration="13201000" />
+      <workItem from="1524497229391" duration="424000" />
+      <workItem from="1524576566821" duration="2176000" />
+      <workItem from="1524664717154" duration="5090000" />
+      <workItem from="1524670575327" duration="263000" />
+      <workItem from="1524746945595" duration="1015000" />
     </task>
     <task id="LOCAL-00001" summary="测试保存文章接口">
       <created>1524150290477</created>
@@ -904,43 +796,64 @@
       <option name="project" value="LOCAL" />
       <updated>1524152720168</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试保存文章接口2">
+      <created>1524362675548</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524362675548</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tips:博客保存">
+      <created>1524747909365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1524747909365</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tips:初始化项目">
+      <created>1524748051531</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1524748051531</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArticleDaoTest_queryById - 2018.04.19 at 23h 33m 22s.xml">
-      <configuration name="ArticleDaoTest.queryById" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArticleDaoTest_queryById - 2018.04.19 at 23h 34m 53s.xml">
-      <configuration name="ArticleDaoTest.queryById" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArticleDaoTest_queryById - 2018.04.19 at 23h 35m 40s.xml">
-      <configuration name="ArticleDaoTest.queryById" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArticleDaoTest_queryById - 2018.04.22 at 09h 46m 20s.xml">
-      <configuration name="ArticleDaoTest.queryById" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.19 at 23h 27m 57s.xml">
+    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.25 at 23h 03m 22s.xml">
       <configuration name="ArticleDaoTest.saveArticle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.19 at 23h 35m 08s.xml">
+    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.25 at 23h 03m 43s.xml">
       <configuration name="ArticleDaoTest.saveArticle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.19 at 23h 36m 32s.xml">
+    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.25 at 23h 05m 07s.xml">
       <configuration name="ArticleDaoTest.saveArticle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ResumeDaoTest_queryById - 2018.04.19 at 23h 02m 54s.xml">
-      <configuration name="ResumeDaoTest.queryById" configurationId="JUnit" />
+    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.25 at 23h 06m 39s.xml">
+      <configuration name="ArticleDaoTest.saveArticle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ResumeDaoTest_queryById - 2018.04.19 at 23h 32m 16s.xml">
-      <configuration name="ResumeDaoTest.queryById" configurationId="JUnit" />
+    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.25 at 23h 08m 26s.xml">
+      <configuration name="ArticleDaoTest.saveArticle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ResumeDaoTest_saveResume - 2018.04.19 at 23h 32m 54s.xml">
-      <configuration name="ResumeDaoTest.saveResume" configurationId="JUnit" />
+    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.25 at 23h 10m 50s.xml">
+      <configuration name="ArticleDaoTest.saveArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.25 at 23h 19m 18s.xml">
+      <configuration name="ArticleDaoTest.saveArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.25 at 23h 20m 12s.xml">
+      <configuration name="ArticleDaoTest.saveArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArticleDaoTest_saveArticle - 2018.04.25 at 23h 21m 48s.xml">
+      <configuration name="ArticleDaoTest.saveArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ResumeDaoTest_saveResume1 - 2018.04.25 at 23h 09m 04s.xml">
+      <configuration name="ResumeDaoTest.saveResume1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116582000" />
+    <option name="totallyTimeSpent" value="152038000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -955,24 +868,24 @@
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281412" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744282" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50727654" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" x="84" y="277" width="1260" height="214" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6133056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32328483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281412" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2216097" sideWeight="0.4927235" order="0" side_tool="false" content_ui="combo" x="-1195" y="-86" width="469" height="646" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23649393" sideWeight="0.4927235" order="0" side_tool="false" content_ui="combo" x="-1195" y="-86" width="469" height="646" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21349207" sideWeight="0.50537634" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855567" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="506" y="243" width="415" height="281" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18302095" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="506" y="243" width="415" height="281" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21940464" sideWeight="0.50727654" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -980,7 +893,7 @@
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1002,11 +915,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" x="84" y="277" width="1260" height="214" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6133056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6133056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281412" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21940464" sideWeight="0.4927235" order="0" side_tool="false" content_ui="combo" x="-1195" y="-86" width="469" height="646" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2216097" sideWeight="0.4927235" order="0" side_tool="false" content_ui="combo" x="-1195" y="-86" width="469" height="646" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21349207" sideWeight="0.50537634" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872504" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21940464" sideWeight="0.50727654" order="4" side_tool="true" content_ui="tabs" />
@@ -1055,477 +968,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="测试保存文章接口" />
     <MESSAGE value="测试保存文章接口2" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试保存文章接口2" />
+    <MESSAGE value="开发文章保存" />
+    <MESSAGE value="tips:博客保存" />
+    <MESSAGE value="tips:初始化项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="tips:初始化项目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ArticleDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding>
-            <marker date="1524148275014" expanded="true" signature="323:538" ph="UPDATE artic... " />
-            <marker date="1524148275014" expanded="true" signature="610:759" ph="INSERT INTO article... " />
-            <marker date="1524148275014" expanded="true" signature="850:909" ph="SELECT * FRO... article" />
-            <marker date="1524148275014" expanded="true" signature="1044:1105" ph="SELECT * FRO... article" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ResumeDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-          <folding>
-            <marker date="1523973377886" expanded="true" signature="286:557" ph="UPDATE resum... " />
-            <marker date="1523973377886" expanded="true" signature="613:824" ph="INSERT INTO resume... " />
-            <marker date="1523973377886" expanded="true" signature="879:1156" ph="INSERT INTO resume... " />
-            <marker date="1523973377886" expanded="true" signature="1229:1292" ph="SELECT * FRO... resume" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/entity/Resume.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/mazic/ResumeDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/91b828ba/7a1e9c3a-68e9-4d53-b847-0562f0570ac9/blogdemo.article">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/mazic/ArticleDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/resume.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5760">
-          <caret line="192" column="42" lean-forward="false" selection-start-line="192" selection-start-column="42" selection-end-line="192" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/bt/assets/js/vendor/autoprefixer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/blog.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2130">
-          <caret line="71" column="91" lean-forward="true" selection-start-line="71" selection-start-column="91" selection-end-line="71" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/entity/Article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding>
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-            <element signature="e#1059#1060#0" expanded="true" />
-            <element signature="e#1091#1092#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-            <element signature="e#1146#1147#0" expanded="true" />
-            <element signature="e#1183#1184#0" expanded="true" />
-            <element signature="e#1215#1216#0" expanded="true" />
-            <element signature="e#1245#1246#0" expanded="true" />
-            <element signature="e#1271#1272#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-            <element signature="e#1339#1340#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/entity/Resume.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/web/ResumeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/service/impl/ResumeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/dao/ResumeDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/resume.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5760">
-          <caret line="192" column="42" lean-forward="false" selection-start-line="192" selection-start-column="42" selection-end-line="192" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/web/ResumeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/service/impl/ResumeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/91b828ba/7a1e9c3a-68e9-4d53-b847-0562f0570ac9/blogdemo.resume">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/resume.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5760">
-          <caret line="192" column="42" lean-forward="false" selection-start-line="192" selection-start-column="42" selection-end-line="192" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/web/ResumeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/service/impl/ResumeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/91b828ba/7a1e9c3a-68e9-4d53-b847-0562f0570ac9/blogdemo.resume">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/mazic/ResumeServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/bt/assets/brand/bootstrap-outline.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/service/ResumeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/service/impl/ResumeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/resume.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5760">
-          <caret line="192" column="42" lean-forward="false" selection-start-line="192" selection-start-column="42" selection-end-line="192" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/web/ResumeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/blog.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="74" column="28" lean-forward="true" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7a1e9c3a-68e9-4d53-b847-0562f0570ac9/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1039">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ResumeDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-          <folding>
-            <marker date="1523973377886" expanded="true" signature="286:557" ph="UPDATE resum... " />
-            <marker date="1523973377886" expanded="true" signature="613:824" ph="INSERT INTO resume... " />
-            <marker date="1523973377886" expanded="true" signature="879:1156" ph="INSERT INTO resume... " />
-            <marker date="1523973377886" expanded="true" signature="1229:1292" ph="SELECT * FRO... resume" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/91b828ba/7a1e9c3a-68e9-4d53-b847-0562f0570ac9/blogdemo.resume">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/mazic/ResumeDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/entity/Article.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#994#995#0" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-            <element signature="e#1059#1060#0" expanded="true" />
-            <element signature="e#1091#1092#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-            <element signature="e#1146#1147#0" expanded="true" />
-            <element signature="e#1183#1184#0" expanded="true" />
-            <element signature="e#1215#1216#0" expanded="true" />
-            <element signature="e#1245#1246#0" expanded="true" />
-            <element signature="e#1271#1272#0" expanded="true" />
-            <element signature="e#1309#1310#0" expanded="true" />
-            <element signature="e#1339#1340#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/91b828ba/7a1e9c3a-68e9-4d53-b847-0562f0570ac9/blogdemo.article">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ArticleDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding>
-            <marker date="1524148275014" expanded="true" signature="323:538" ph="UPDATE artic... " />
-            <marker date="1524148275014" expanded="true" signature="610:759" ph="INSERT INTO article... " />
-            <marker date="1524148275014" expanded="true" signature="850:909" ph="SELECT * FRO... article" />
-            <marker date="1524148275014" expanded="true" signature="1044:1105" ph="SELECT * FRO... article" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/dao/ResumeDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/entity/Resume.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mazic/dao/ArticleDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/mazic/ArticleDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dataSources/7a1e9c3a-68e9-4d53-b847-0562f0570ac9.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1584,7 +1046,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|blogDemo</last-edited>
+          <last-edited>blogDemo</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

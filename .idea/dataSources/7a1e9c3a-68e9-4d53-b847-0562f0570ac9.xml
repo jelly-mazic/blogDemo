@@ -10,47 +10,48 @@
     <schema id="4" parent="1" name="mysql"/>
     <schema id="5" parent="1" name="performance_schema"/>
     <schema id="6" parent="1" name="sys"/>
-    <table id="7" parent="2" name="login"/>
-    <table id="8" parent="2" name="resume"/>
-    <column id="9" parent="7" name="username">
+    <schema id="7" parent="1" name="blog"/>
+    <table id="8" parent="2" name="login"/>
+    <table id="9" parent="2" name="resume"/>
+    <column id="10" parent="8" name="username">
       <Position>1</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="10" parent="7" name="password">
+    <column id="11" parent="8" name="password">
       <Position>2</Position>
       <DataType>int(11)|0</DataType>
     </column>
-    <column id="19" parent="9" name="resumeId">
+    <column id="12" parent="9" name="resumeId">
       <Position>1</Position>
       <DataType>int(11)|0</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
     </column>
-    <column id="20" parent="9" name="selfIntroduce">
+    <column id="13" parent="9" name="selfIntroduce">
       <Position>2</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="21" parent="9" name="selfAbility">
+    <column id="14" parent="9" name="selfAbility">
       <Position>3</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="22" parent="9" name="selfLanguage">
+    <column id="15" parent="9" name="selfLanguage">
       <Position>4</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="23" parent="9" name="selfEducation">
+    <column id="16" parent="9" name="selfEducation">
       <Position>5</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="24" parent="9" name="selfExperience">
+    <column id="17" parent="9" name="selfExperience">
       <Position>6</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <column id="25" parent="9" name="selfHobby">
+    <column id="18" parent="9" name="selfHobby">
       <Position>7</Position>
       <DataType>varchar(255)|0</DataType>
     </column>
-    <key id="26" parent="9" name="PRIMARY">
+    <key id="19" parent="9" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>resumeId</ColNames>
       <Primary>1</Primary>
